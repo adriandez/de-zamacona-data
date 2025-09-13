@@ -1,0 +1,64 @@
+variant,canonical
+Echevarria,Etxebarria
+Echavari,Etxebarria
+Echebarria,Etxebarria
+Beascoechea,Beaskoetxea
+Beacoechea,Beaskoetxea
+Aldacazaval,Aldazabal
+Artave,Artabe
+Balle,Valle
+Belaosteguiy,Belaostegui
+Beyntia,Beitia
+Heyzaga,Eizaga
+Eyzaga,Eizaga
+Hordenana,Ordenana
+Hordenana,Ordeñana
+Ibanes,Ibanez
+Ozerin,Ocerin
+Pagalday,Pagaldai
+Vengoechea,Bengoechea
+Vgalde,Ugalde
+Zagarduy,Sagarduy
+Thelleria,Telleria
+Bauptista,Bautista
+Birilquicha,Birisquieta
+Birizqueta,Birisquieta
+Ubirichaga,Ubiritxaga
+Herrementeria,Errementeria
+Balois,Valois
+Baloisoriundo,Valois
+Chatave,Txatabe
+Sanches,Sanchez
+Aierro,Aiero
+Basave,Basabe
+Artuis,Artiz
+Jortis,Ortiz
+Artamonis,Artemuniz
+Artemoniz,Artemuniz
+Gonzales,Gonzalez
+Orve,Orbe
+Laragoti,Larragoiti
+# --- AMBIGUOS A REVISAR MANUALMENTE ---
+# Artamonis -> Artamendi? Artamona?
+# Austoa -> Arestua? Astoaga?
+# Isusorbe -> Isusaga? Isusquiza?
+# Oynquina -> Oinquina?
+# Ubirichaga -> Urbinaga/Urbiñaga?
+# Urgoytia -> Urgoitia?
+# Uricar -> Urkiza? Urricar?
+# Uriguen -> Urien? Uriguena?
+# Zerendieta -> Zearendieta? Zerandieta?
+# Zevericha -> ? (no claro)
+Echevarria,,Etxebarria
+
+# --- AMBIGUOS A REVISAR MANUALMENTE ---
+# Artamonis -> Artamendi? Artamona?
+# Austoa -> Arestua? Astoaga?
+# Isusorbe -> Isusaga? Isusquiza?
+# Oynquina -> Oinquina?
+# Ubirichaga -> Urbinaga/Urbinaga/Urbinaga? (variante con ñ si decides)
+# Urgoytia -> Urgoitia?
+# Uricar -> Urkiza? Urricar?
+# Uriguen -> Urien? Uriguena?
+# Zerendieta -> Zearendieta? Zerandieta?
+# Zevericha -> ? (no claro)

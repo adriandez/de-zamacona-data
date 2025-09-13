@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Salidas y temporales
+out/
+logs/
+*.log
+
+# Datos de entrada locales / grandes
+raw/
+
+# SO / editor
+.DS_Store
+Thumbs.db
